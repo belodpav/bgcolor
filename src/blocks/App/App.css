@@ -1,0 +1,19 @@
+.App-Wrapper {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+.App-Controls {
+  position: fixed;
+  top: 50px;
+  left: 50px;
+  max-width: 220px;
+  width: 100%;
+}
+
+.App-ControlsInput {
+  display: block;
+  margin-bottom: 20px;
+}
+
